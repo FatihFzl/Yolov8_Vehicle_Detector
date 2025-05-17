@@ -6,7 +6,7 @@ A comprehensive computer vision project that detects, tracks, and counts vehicle
 
 This project implements a complete solution for traffic monitoring and analysis. It can process video footage from traffic cameras to identify different types of vehicles, track their movement, and generate statistics about traffic flow. The system provides a professional visualization interface that displays detection results and traffic metrics in real-time.
 
-**Authors:** Fatih Burak Fazlioglu , Arif Mert Dinc
+**Authors:** Fatih Burak Fazlioglu (2103702) , Arif Mert Dinc (2103604)
 **Institution:** Bahcesehir University  
 **Date:** May 14, 2025
 
