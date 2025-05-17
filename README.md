@@ -55,7 +55,7 @@ vehicle-detection-tracking/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/candeniz-bek/vehicle-detection-tracking.git
+git clone https://github.com/FatihFzl/Yolov8_Vehicle_Detector
 cd vehicle-detection-tracking
 ```
 
